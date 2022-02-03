@@ -1,0 +1,22 @@
+Link para Download do Git: https://git-scm.com/downloads
+O Git Bash é um terminal extendido para utilizar o Git.
+
+Link para a documentação do MarkDown: https://www.markdownguide.org/basic-syntax/
+Markdown é um formato de simples de markup, isso é, de marcação de texto. É frequentemente usado para formatar arquivos README.
+
+Passo a passo para criar repositório no GitHub e clonar na sua máquina:
+
+Após a instalação do Git faça o login no GitHub
+Acesse: https://github.com/
+
+- Clique em Start a project
+- Defina um nome para seu repositório
+- Defina ele como Public ou Private (lembrando que os recrutadores verficam o seu portifólio de projetos através do GitHub, por isso seria interessante deixar como público)
+- Selecionar README (O README nada mais é que um arquivo de apresentação. É o “primeiro passo” ao 
+abrir um novo projeto, seja pra ver a documentação, dicas essenciais que precisa saber para rodar 
+o projeto, descrição de seu projeto, etc. Tudo isso pode e deve ser adicionado no README)
+- Clique em Create Repository
+- Aparecerá então as linhas de comando (command line) para clonar o projeto em sua máquina,
+siga os passos informados na tela
+Pronto agora você já está com o repositório tanto no GitHub como em sua máquina!
+ 
